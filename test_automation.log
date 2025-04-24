@@ -1,11 +1,11 @@
-2025-04-24 13:31:19,362 - support.logger - INFO - 
+2025-04-24 13:34:17,036 - support.logger - INFO - 
 Started scenario: User can open User guide page
-2025-04-24 13:31:22,118 - support.logger - INFO - Started step <given "Open Reelly main page">
-2025-04-24 13:31:24,259 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
-2025-04-24 13:31:25,967 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
-2025-04-24 13:31:26,016 - support.logger - INFO - Started step <when "Click continue">
-2025-04-24 13:31:26,076 - support.logger - INFO - Started step <when "Click on the settings option">
-2025-04-24 13:31:27,726 - support.logger - INFO - Started step <when "Click on the User Guide Option">
-2025-04-24 13:31:30,893 - support.logger - INFO - Started step <then "Verify User Guide page opens">
-2025-04-24 13:31:30,898 - support.logger - INFO - Started step <then "Switch to iFrame">
-2025-04-24 13:31:30,939 - support.logger - INFO - Started step <then "Verify the lesson video title is: Full overview of Reelly platform">
+2025-04-24 13:34:19,617 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-04-24 13:34:21,127 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-04-24 13:34:22,492 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-04-24 13:34:22,548 - support.logger - INFO - Started step <when "Click continue">
+2025-04-24 13:34:22,616 - support.logger - INFO - Started step <when "Click on the settings option">
+2025-04-24 13:34:24,309 - support.logger - INFO - Started step <when "Click on the User Guide Option">
+2025-04-24 13:34:27,179 - support.logger - INFO - Started step <then "Verify User Guide page opens">
+2025-04-24 13:34:27,182 - support.logger - INFO - Started step <then "Switch to iFrame">
+2025-04-24 13:34:27,260 - support.logger - INFO - Started step <then "Verify the lesson video title is: Full overview of Reelly platform">
