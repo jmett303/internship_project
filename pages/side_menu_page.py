@@ -6,5 +6,8 @@ from time import sleep
 class SideMenuPage(Page):
     SETTINGS_OPTION = (By.CSS_SELECTOR, '[class="menu-block"] [href="/settings"]')
 
+
     def click_settings_option(self):
+        # self.wait.until(EC.presence_of_element_located(self.SETTINGS_OPTION)).click()
         self.wait.until(EC.element_to_be_clickable(self.SETTINGS_OPTION)).click()
+        sleep(1)

@@ -9,6 +9,7 @@ class SignInPage(Page):
 
     def enter_email(self, email):
         self.wait_until_clickable(*self.EMAIL_FIELD)
+        sleep(1)
         self.driver.find_element(*self.EMAIL_FIELD).send_keys(email)
 
     def enter_password(self, password):

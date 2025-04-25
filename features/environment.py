@@ -14,21 +14,14 @@ from support.logger import logger
 # allure serve test_results/
 
 def browser_init(context):
-    """
-    :param context: Behave context
-    """
+    # :param context: Behave context
+
+    ### Chrome ###
     driver_path = ChromeDriverManager().install()
     service = Service(driver_path)
     context.driver = webdriver.Chrome(service=service)
 
-    # driver_path = GeckoDriverManager().install()
-    # service = Service(driver_path)
-    # context.driver = webdriver.Firefox(service=service)
-
-    ### SAFARI ###
-    # context.driver = webdriver.Safari()
-
-    ### HEADLESS MODE ####
+    ### Chrome HEADLESS MODE ####
     # options = webdriver.ChromeOptions()
     # options.add_argument('headless')
     # service = Service(ChromeDriverManager().install())
@@ -36,6 +29,14 @@ def browser_init(context):
     #     options=options,
     #     service=service
     # )
+
+    ### Firefox ###
+    # driver_path = GeckoDriverManager().install()
+    # service = Service(driver_path)
+    # context.driver = webdriver.Firefox(service=service)
+
+    ### SAFARI ###
+    # context.driver = webdriver.Safari()
 
     ## BROWSERSTACK ###
     # Register for BrowserStack, then grab it from https://www.browserstack.com/accounts/settings
