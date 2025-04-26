@@ -23,7 +23,7 @@ def browser_init(context):
 
     ### Chrome HEADLESS MODE ####
     # options = webdriver.ChromeOptions()
-    # options.add_argument('headless')
+    # options.add_argument('headless')    #if headless fails try this instead: options.add_argument("--window-size=1920,1080")
     # service = Service(ChromeDriverManager().install())
     # context.driver = webdriver.Chrome(
     #     options=options,
