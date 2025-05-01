@@ -9,4 +9,4 @@ class SideMenuPage(Page):
 
     def click_settings_option(self):
         self.wait.until(EC.element_to_be_clickable(self.SETTINGS_OPTION)).click()
-        sleep(1)
+        sleep(2)

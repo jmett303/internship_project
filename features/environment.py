@@ -40,19 +40,25 @@ def browser_init(context):
 
     ## BROWSERSTACK ###
     # Register for BrowserStack, then grab it from https://www.browserstack.com/accounts/settings
+        # edit def to include scenario_name: "def browser_init(context,scenario_name):"
+        # Edit function "before_scenario" to include scenario.name: browser_init(context, scenario.name) in body
+        # options for running on devices: https://www.browserstack.com/docs/automate/selenium/select-browsers-and-devices
+        # "os" : Windows, OS X / 'browserName': Chrome, Firefox, IE, Safari, Edge, Opera
+
     # bs_user ='jackiemettler_CJGfVT'
     # bs_key = 'REsqorKvRVziSNgxALhs'
     # url = f'http://{bs_user}:{bs_key}@hub-cloud.browserstack.com/wd/hub'
     #
     # options = Options()
     # bstack_options = {
-    #     "os" : "Windows",
-    #     "osVersion" : "11",
-    #     'browserName': 'edge',
+    #     "os" : "OS X",
+    #     "osVersion" : "Sequoia",
+    #     'browserName': 'Safari',
     #     'sessionName': scenario_name,
     # }
     # options.set_capability('bstack:options', bstack_options)
     # context.driver = webdriver.Remote(command_executor=url, options=options)
+    # ###
 
     context.driver.maximize_window()
     context.driver.implicitly_wait(4)
