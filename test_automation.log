@@ -1,55 +1,11 @@
-2025-04-29 18:42:07,171 - support.logger - INFO - 
+2025-05-01 20:19:33,414 - support.logger - INFO - 
 Started scenario: User can open User guide page
-2025-04-29 18:42:12,008 - support.logger - INFO - Started step <given "Open Reelly main page">
-2025-04-29 18:42:16,061 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
-2025-04-29 18:42:17,828 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
-2025-04-29 18:42:18,123 - support.logger - INFO - Started step <when "Click continue">
-2025-04-29 18:42:20,425 - support.logger - INFO - Started step <when "Click on the settings option">
-2025-04-29 18:42:23,626 - support.logger - INFO - Started step <when "Click on the User Guide Option">
-2025-04-29 18:42:26,589 - support.logger - INFO - Started step <then "Verify User Guide page opens">
-2025-04-29 18:42:26,713 - support.logger - INFO - Started step <then "Switch to iFrame">
-2025-04-29 18:42:27,329 - support.logger - INFO - Started step <then "Verify the lesson video title is: Full overview of Reelly platform">
-2025-04-29 18:43:47,763 - support.logger - INFO - 
-Started scenario: User can open User guide page
-2025-04-29 18:43:54,494 - support.logger - INFO - Started step <given "Open Reelly main page">
-2025-04-29 18:43:58,100 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
-2025-04-29 18:43:59,698 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
-2025-04-29 18:43:59,911 - support.logger - INFO - Started step <when "Click continue">
-2025-04-29 18:44:02,376 - support.logger - INFO - Started step <when "Click on the settings option">
-2025-04-29 18:44:05,731 - support.logger - INFO - Started step <when "Click on the User Guide Option">
-2025-04-29 18:44:07,726 - support.logger - INFO - Started step <then "Verify User Guide page opens">
-2025-04-29 18:44:07,823 - support.logger - INFO - Started step <then "Switch to iFrame">
-2025-04-29 18:44:08,488 - support.logger - INFO - Started step <then "Verify the lesson video title is: Full overview of Reelly platform">
-2025-04-29 18:45:09,577 - support.logger - INFO - 
-Started scenario: User can open User guide page
-2025-04-29 18:45:14,652 - support.logger - INFO - Started step <given "Open Reelly main page">
-2025-04-29 18:45:18,320 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
-2025-04-29 18:45:19,967 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
-2025-04-29 18:45:20,180 - support.logger - INFO - Started step <when "Click continue">
-2025-04-29 18:45:22,423 - support.logger - INFO - Started step <when "Click on the settings option">
-2025-04-29 18:45:25,205 - support.logger - INFO - Started step <when "Click on the User Guide Option">
-2025-04-29 18:45:28,458 - support.logger - INFO - Started step <then "Verify User Guide page opens">
-2025-04-29 18:45:28,531 - support.logger - INFO - Started step <then "Switch to iFrame">
-2025-04-29 18:45:28,882 - support.logger - INFO - Started step <then "Verify the lesson video title is: Full overview of Reelly platform">
-2025-04-29 18:46:12,824 - support.logger - INFO - 
-Started scenario: User can open User guide page
-2025-04-29 18:46:17,962 - support.logger - INFO - Started step <given "Open Reelly main page">
-2025-04-29 18:46:21,600 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
-2025-04-29 18:46:23,432 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
-2025-04-29 18:46:23,693 - support.logger - INFO - Started step <when "Click continue">
-2025-04-29 18:46:26,005 - support.logger - INFO - Started step <when "Click on the settings option">
-2025-04-29 18:46:28,515 - support.logger - INFO - Started step <when "Click on the User Guide Option">
-2025-04-29 18:46:29,014 - support.logger - INFO - Started step <then "Verify User Guide page opens">
-2025-04-29 18:46:30,311 - support.logger - INFO - Started step <then "Switch to iFrame">
-2025-04-29 18:46:31,067 - support.logger - INFO - Started step <then "Verify the lesson video title is: Full overview of Reelly platform">
-2025-04-29 19:08:44,399 - support.logger - INFO - 
-Started scenario: User can open User guide page
-2025-04-29 19:08:49,840 - support.logger - INFO - Started step <given "Open Reelly main page">
-2025-04-29 19:08:53,766 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
-2025-04-29 19:08:54,964 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
-2025-04-29 19:08:55,011 - support.logger - INFO - Started step <when "Click continue">
-2025-04-29 19:08:57,064 - support.logger - INFO - Started step <when "Click on the settings option">
-2025-04-29 19:08:59,590 - support.logger - INFO - Started step <when "Click on the User Guide Option">
-2025-04-29 19:09:02,748 - support.logger - INFO - Started step <then "Verify User Guide page opens">
-2025-04-29 19:09:02,761 - support.logger - INFO - Started step <then "Switch to iFrame">
-2025-04-29 19:09:02,817 - support.logger - INFO - Started step <then "Verify the lesson video title is: Full overview of Reelly platform">
+2025-05-01 20:19:37,939 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-01 20:19:42,245 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-01 20:19:43,481 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-01 20:19:43,528 - support.logger - INFO - Started step <when "Click continue">
+2025-05-01 20:19:45,607 - support.logger - INFO - Started step <when "Click on the settings option">
+2025-05-01 20:19:48,649 - support.logger - INFO - Started step <when "Click on the User Guide Option">
+2025-05-01 20:19:51,629 - support.logger - INFO - Started step <then "Verify User Guide page opens">
+2025-05-01 20:19:51,633 - support.logger - INFO - Started step <then "Switch to iFrame">
+2025-05-01 20:19:51,676 - support.logger - INFO - Started step <then "Verify the lesson video title is: Full overview of Reelly platform">
