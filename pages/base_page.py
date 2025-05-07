@@ -69,8 +69,7 @@ class Page:
     def hover_element(self, *locator):
         element = self.find_element(*locator)
         actions = ActionChains(self.driver)
-        actions.move_to_element(element)
-        actions.perform()
+        actions.move_to_element(element).perform()
 
     def verify_text(self, expected_text, *locator):
         actual_text = self.find_element(*locator).text

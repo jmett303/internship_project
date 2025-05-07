@@ -5,3 +5,7 @@ from time import sleep
 @when('Click on the User Guide Option')
 def click_user_guide(context):
     context.app.settings_page.click_user_guide()
+
+@when('Click on the Mobile User Guide Option')
+def click_user_guide(context):
+    context.app.settings_page.click_mobile_user_guide()

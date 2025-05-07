@@ -9,3 +9,217 @@ Started scenario: User can open User guide page
 2025-05-01 20:19:51,629 - support.logger - INFO - Started step <then "Verify User Guide page opens">
 2025-05-01 20:19:51,633 - support.logger - INFO - Started step <then "Switch to iFrame">
 2025-05-01 20:19:51,676 - support.logger - INFO - Started step <then "Verify the lesson video title is: Full overview of Reelly platform">
+2025-05-06 20:04:35,952 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:06:19,511 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:09:28,402 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:15:56,476 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:17:30,196 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:26:19,664 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:28:06,403 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:30:49,234 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:34:16,138 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:34:18,880 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 20:34:24,151 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 20:34:25,480 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 20:34:25,576 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 20:34:27,684 - support.logger - INFO - Started step <when "Click on the settings option">
+2025-05-06 20:34:37,771 - support.logger - WARNING - Step failed <when "Click on the settings option">
+2025-05-06 20:44:40,410 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:44:45,017 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 20:44:49,548 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 20:44:50,743 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 20:44:50,806 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 20:44:52,910 - support.logger - INFO - Started step <when "Click on the settings option">
+2025-05-06 20:45:03,401 - support.logger - WARNING - Step failed <when "Click on the settings option">
+2025-05-06 20:45:05,657 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:45:07,084 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 20:45:11,429 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 20:45:12,572 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 20:45:12,622 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 20:45:14,725 - support.logger - INFO - Started step <when "Click on the settings option">
+2025-05-06 20:45:25,224 - support.logger - WARNING - Step failed <when "Click on the settings option">
+2025-05-06 20:47:59,383 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:48:00,861 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 20:48:04,518 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 20:48:05,617 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 20:48:05,653 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 20:48:07,755 - support.logger - INFO - Started step <when "Click on the settings option">
+2025-05-06 20:48:18,277 - support.logger - WARNING - Step failed <when "Click on the settings option">
+2025-05-06 20:48:20,422 - support.logger - INFO - 
+Started scenario: User can open User guide page
+2025-05-06 20:48:21,921 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 20:48:25,568 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 20:48:26,742 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 20:48:26,789 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 20:48:28,889 - support.logger - INFO - Started step <when "Click on the settings option">
+2025-05-06 20:48:38,909 - support.logger - WARNING - Step failed <when "Click on the settings option">
+2025-05-06 20:54:07,208 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-06 20:54:08,645 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 20:54:12,158 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 20:54:13,480 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 20:54:13,530 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 20:54:15,643 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-06 20:54:25,698 - support.logger - WARNING - Step failed <when "Click on the settings icon">
+2025-05-06 20:54:51,490 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-06 20:54:53,075 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 20:54:56,598 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 20:54:57,715 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 20:54:57,766 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 20:54:59,865 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-06 20:55:02,747 - support.logger - INFO - Started step <when "Click on the User Guide Option">
+2025-05-06 20:55:03,847 - support.logger - WARNING - Step failed <when "Click on the User Guide Option">
+2025-05-06 21:01:56,687 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-06 21:01:58,201 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 21:02:02,311 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 21:02:03,508 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 21:02:03,557 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 21:02:05,664 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-06 21:02:08,507 - support.logger - INFO - Started step <when "Click on the User Guide Option">
+2025-05-06 21:02:08,513 - support.logger - WARNING - Step failed <when "Click on the User Guide Option">
+2025-05-06 21:04:12,712 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-06 21:04:14,156 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 21:04:18,011 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 21:04:19,221 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 21:04:19,264 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 21:04:21,375 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-06 21:04:24,237 - support.logger - INFO - Started step <when "Click on the User Guide Option">
+2025-05-06 21:04:24,257 - support.logger - WARNING - Step failed <when "Click on the User Guide Option">
+2025-05-06 21:13:15,128 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-06 21:13:16,717 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 21:13:20,426 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 21:13:21,566 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 21:13:21,609 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 21:13:23,718 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-06 21:13:26,672 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-06 21:13:26,695 - support.logger - WARNING - Step failed <when "Click on the Mobile User Guide Option">
+2025-05-06 21:18:36,731 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-06 21:18:38,224 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 21:18:41,859 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 21:18:42,927 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 21:18:42,969 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 21:18:45,070 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-06 21:18:47,973 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-06 21:18:47,991 - support.logger - WARNING - Step failed <when "Click on the Mobile User Guide Option">
+2025-05-06 21:23:10,308 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-06 21:23:11,956 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 21:23:15,843 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 21:23:16,950 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 21:23:17,007 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 21:23:19,117 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-06 21:23:21,989 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-06 21:23:22,013 - support.logger - WARNING - Step failed <when "Click on the Mobile User Guide Option">
+2025-05-06 21:27:35,716 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-06 21:27:37,355 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-06 21:27:41,351 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-06 21:27:42,471 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-06 21:27:42,520 - support.logger - INFO - Started step <when "Click continue">
+2025-05-06 21:27:44,619 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-06 21:27:47,473 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-06 21:27:47,527 - support.logger - WARNING - Step failed <when "Click on the Mobile User Guide Option">
+2025-05-07 10:37:18,682 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-07 10:37:20,819 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-07 10:37:25,096 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-07 10:37:26,293 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-07 10:37:26,349 - support.logger - INFO - Started step <when "Click continue">
+2025-05-07 10:37:28,451 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-07 10:37:31,354 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-07 10:37:32,502 - support.logger - INFO - Started step <then "Verify User Guide page opens">
+2025-05-07 10:37:42,724 - support.logger - WARNING - Step failed <then "Verify User Guide page opens">
+2025-05-07 10:38:41,732 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-07 10:38:43,344 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-07 10:38:48,404 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-07 10:38:49,565 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-07 10:38:49,632 - support.logger - INFO - Started step <when "Click continue">
+2025-05-07 10:38:51,732 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-07 10:38:54,348 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-07 10:38:55,486 - support.logger - WARNING - Step failed <when "Click on the Mobile User Guide Option">
+2025-05-07 10:39:36,503 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-07 10:39:38,033 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-07 10:39:42,050 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-07 10:39:43,244 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-07 10:39:43,296 - support.logger - INFO - Started step <when "Click continue">
+2025-05-07 10:39:45,395 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-07 10:39:48,305 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-07 10:39:52,418 - support.logger - WARNING - Step failed <when "Click on the Mobile User Guide Option">
+2025-05-07 10:41:14,819 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-07 10:41:16,344 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-07 10:41:20,194 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-07 10:41:21,362 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-07 10:41:21,416 - support.logger - INFO - Started step <when "Click continue">
+2025-05-07 10:41:23,545 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-07 10:41:26,530 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-07 10:41:27,663 - support.logger - WARNING - Step failed <when "Click on the Mobile User Guide Option">
+2025-05-07 10:41:59,225 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-07 10:42:00,838 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-07 10:42:04,700 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-07 10:42:05,811 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-07 10:42:05,864 - support.logger - INFO - Started step <when "Click continue">
+2025-05-07 10:42:07,966 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-07 10:42:10,830 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-07 10:42:11,987 - support.logger - INFO - Started step <then "Verify User Guide page opens">
+2025-05-07 10:42:22,202 - support.logger - WARNING - Step failed <then "Verify User Guide page opens">
+2025-05-07 10:42:31,396 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-07 10:42:32,967 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-07 10:42:36,721 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-07 10:42:37,868 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-07 10:42:37,928 - support.logger - INFO - Started step <when "Click continue">
+2025-05-07 10:42:40,025 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-07 10:42:42,929 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-07 10:42:44,092 - support.logger - INFO - Started step <then "Verify User Guide page opens">
+2025-05-07 10:42:54,274 - support.logger - WARNING - Step failed <then "Verify User Guide page opens">
+2025-05-07 10:43:29,389 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-07 10:43:30,979 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-07 10:43:34,825 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-07 10:43:36,022 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-07 10:43:36,080 - support.logger - INFO - Started step <when "Click continue">
+2025-05-07 10:43:38,177 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-07 10:43:40,797 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-07 10:43:45,151 - support.logger - INFO - Started step <then "Verify User Guide page opens">
+2025-05-07 10:43:55,406 - support.logger - WARNING - Step failed <then "Verify User Guide page opens">
+2025-05-07 10:46:36,844 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-07 10:46:38,453 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-07 10:46:42,506 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-07 10:46:43,692 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-07 10:46:43,772 - support.logger - INFO - Started step <when "Click continue">
+2025-05-07 10:46:45,867 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-07 10:46:49,551 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-07 10:46:49,564 - support.logger - WARNING - Step failed <when "Click on the Mobile User Guide Option">
+2025-05-07 10:47:46,340 - support.logger - INFO - 
+Started scenario: Mobile User can open User guide page
+2025-05-07 10:47:47,908 - support.logger - INFO - Started step <given "Open Reelly main page">
+2025-05-07 10:47:51,830 - support.logger - INFO - Started step <when "Enter email: jackiemettler@yahoo.com">
+2025-05-07 10:47:52,977 - support.logger - INFO - Started step <when "Enter password: si5xFhT&$74dG#DN">
+2025-05-07 10:47:53,037 - support.logger - INFO - Started step <when "Click continue">
+2025-05-07 10:47:55,141 - support.logger - INFO - Started step <when "Click on the settings icon">
+2025-05-07 10:47:57,936 - support.logger - INFO - Started step <when "Click on the Mobile User Guide Option">
+2025-05-07 10:48:01,659 - support.logger - INFO - Started step <then "Verify User Guide page opens">
+2025-05-07 10:48:01,664 - support.logger - INFO - Started step <then "Switch to iFrame">
+2025-05-07 10:48:01,701 - support.logger - INFO - Started step <then "Verify the lesson video title is: Full overview of Reelly platform">

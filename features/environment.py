@@ -17,9 +17,16 @@ def browser_init(context):
     # :param context: Behave context
 
     ### Chrome ###
-    driver_path = ChromeDriverManager().install()
-    service = Service(driver_path)
-    context.driver = webdriver.Chrome(service=service)
+    # driver_path = ChromeDriverManager().install()
+    # service = Service(driver_path)
+    # context.driver = webdriver.Chrome(service=service)
+
+    ###Mobile Emulator###
+    mobile_emulation = {"deviceName": "iPhone SE"}
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_experimental_option("mobileEmulation", mobile_emulation)
+    context.driver = webdriver.Chrome(options=chrome_options)
+    ###
 
     ### Chrome HEADLESS MODE ####
     # options = webdriver.ChromeOptions()
